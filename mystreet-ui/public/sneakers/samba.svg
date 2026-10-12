@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Sneaker">
+<rect width="400" height="300" fill="#F1EDE4"/>
+<ellipse cx="205" cy="256" rx="165" ry="10" fill="#000" opacity=".08"/>
+<path d="M44 205V152q0-22 22-28l62-18q18-38 62-38l28 28q38 30 88 40 66 12 69 62v7z" fill="#15171A" stroke="#15171A" stroke-opacity=".25" stroke-width="3"/>
+<path d="M44 205V170q40 14 90 6 70-12 120-4 70 10 121 4v29z" fill="#FFFFFF" opacity=".9"/>
+<path d="M190 70l-8 36m26-16l-8 36m28-20l-8 32" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+<path d="M40 203h339v20q0 26-30 26H72q-32 0-32-26z" fill="#C9A56B" stroke="#15171A" stroke-opacity=".25" stroke-width="3"/>
+<path d="M60 232h300" stroke="#15171A" stroke-opacity=".18" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+</svg>

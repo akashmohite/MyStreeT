@@ -1,0 +1,12 @@
+bin/
+obj/
+node_modules/
+dist/
+.env
+.env.local
+*.user
+.vs/
+TestResults/
+coverage/
+appsettings.Local.json
+*.tsbuildinfo
